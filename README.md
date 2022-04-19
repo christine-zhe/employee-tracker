@@ -1,5 +1,9 @@
 # employee-tracker
+# About
 
+This will allow business owners to be able to view and manage departments, roles, and employees within their company. So, that they can be able to organize and plan their business. To use this program, be sure to install all required node modules. 
+
+````
 GIVEN a command-line application that accepts user input
 
 WHEN I start the application
@@ -25,3 +29,7 @@ THEN I am prompted to enter the employee’s first name, last name, role, and ma
 
 WHEN I choose to update an employee role
 THEN I am prompted to select an employee to update and their new role and this information is updated in the database
+````
+# Link to Walkthrough Video
+Please use link below for walkthrough video.
+https://drive.google.com/file/d/1SNZ4MCKJqufjB0-2zxgZbWxPFlGjdHYH/view
