@@ -1,4 +1,3 @@
-# employee-tracker
 # About
 
 This will allow business owners to be able to view and manage departments, roles, and employees within their company. So, that they can be able to organize and plan their business. To use this program, be sure to install all required node modules. 
